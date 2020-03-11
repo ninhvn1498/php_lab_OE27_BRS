@@ -1,0 +1,22 @@
+{
+  "name": "php_lab_OE27_BRS",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ninhvn1498 <ninhvn1498@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ninhvn1498/php_lab_OE27_BRS",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jscssbook": "https://github.com/ninhvn1498/jscssbook.git"
+  }
+}
