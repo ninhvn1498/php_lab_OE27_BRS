@@ -1,0 +1,14 @@
+{
+  "name": "jscssbook",
+  "homepage": "https://github.com/ninhvn1498/jscssbook",
+  "_release": "9852f5562e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9852f5562eadc7aa72358c32d59b08d21e657440"
+  },
+  "_source": "https://github.com/ninhvn1498/jscssbook.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/ninhvn1498/jscssbook.git",
+  "_direct": true
+}
